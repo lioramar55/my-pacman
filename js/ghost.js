@@ -1,6 +1,6 @@
 'use strict';
 
-const BLUE_GHOST = `<img style="height:25px" src="imgs/ghost-blue.png" />`;
+const BLUE_GHOST = `<img style="height:25px" src="assets/imgs/ghost-blue.png" />`;
 var gGhosts;
 var gDeadGhosts = [];
 var gIntervalGhosts;
